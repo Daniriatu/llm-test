@@ -1,0 +1,142 @@
+[
+    {
+        "Sentence": "Estoy curubicando este yuyo.",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：在巴拉圭西班牙语中，'curubicar' 意为‘粉碎’、‘捣碎’或‘掰碎’，直接借用并动词化了瓜拉尼语单词 'kuruvika'。'yuyo' 指的是用于泡制巴拉圭传统饮品（如马黛茶或特雷雷茶 tereré）的药草或植物。整句意为“我正在捣碎这个草药”。注意事项：此为巴拉圭日常文化中的高频俚语，带有强烈的瓜拉尼语融合特征，主要用于非正式的日常交流。"
+    },
+    {
+        "Sentence": "Mi novio me dejó, ¡Qué carruaje!",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'carruaje' 在标准西班牙语中意为“马车”，但在巴拉圭俚语中，它被用来形容一个“糟糕的人”、“无用的人”或“品行不端的人”。整句意为“我男朋友把我甩了，真是个烂人！”。注意事项：该词带有强烈的贬义色彩，通常用于情绪激动时对某人品行或行为的严厉批评，请避免在正式场合使用。"
+    },
+    {
+        "Sentence": "¡Mirá, está pasando tu chongo!",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'chongo' 在巴拉圭指代“情人”、“暧昧对象”或“非正式的男朋友”。整句意为“看，你的相好路过了！”。注意事项：该词在不同的拉美国家有截然不同的含义（例如在部分国家带有负面或轻浮意味），但在巴拉圭年轻人的日常口语中，它是描述恋爱或浪漫关系的常见俚语，使用时需注意文化及地域背景。"
+    },
+    {
+        "Sentence": "Anoche chupamos muchísimo.",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'chupar' 原意为“吸”或“吮吸”，在巴拉圭及许多拉美国家广泛用作“大量饮酒”的俚语。整句意为“昨晚我们喝了非常多酒”。注意事项：属于非常口语化和非正式的表达，常用于朋友间的闲聊，不适合商务或正式书面语境。"
+    },
+    {
+        "Sentence": "¡Mirá esa ñorsa!",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'ñorsa' 源自南美拉普拉塔河流域的 Lunfardo 俚语，在巴拉圭常用来指代“女人”、“女孩”或“女士”。整句意为“看那个女人！”。注意事项：属于极度口语化的街头表达，有时可能被视为不够尊重或略显粗俗，建议在陌生人或长辈面前谨慎使用。"
+    },
+    {
+        "Sentence": "Ayer le estuve viqueando a mi ñorsa.",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'viquear' 是巴拉圭底层口语中的动词，意为“偷看”、“注视”或“观察”。结合前述的 'ñorsa'（女人/女朋友），整句意为“昨天我一直在注视着我的女人”。注意事项：这是非常本土化且具有市井气息的俚语，主要流行于特定圈层，不属于标准西班牙语范畴。"
+    },
+    {
+        "Sentence": "¡Encontré Gs100.000, qué purete!",
+        "predicted_country": "Paraguay",
+        "explanation": "解释：'purete' 是巴拉圭特有的高频俚语，意为“极好的”、“太棒了”或“优秀的”。整句意为“我捡到了10万瓜拉尼，太棒了！”。注意事项：带有强烈的情感色彩，常用于表达极度赞叹或满意，是体现巴拉圭地域文化特色的积极词汇。"
+    },
+    {
+        "Sentence": "Qué chanda este juguete.",
+        "predicted_country": "Colombia",
+        "explanation": "解释：在哥伦比亚俚语中，'chanda' 原本常指“流浪狗”或“串种狗”，引申用来形容物品“劣质”、“糟糕”或“毫无价值”。整句意为“这个玩具质量真差/真垃圾”。注意事项：带有明显的贬义和抱怨情绪，用于评价事物时显得非常不客气，仅限熟人间的随意交流。"
+    },
+    {
+        "Sentence": "Qué seba de man.",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'seba' 在哥伦比亚意为“令人作呕的”、“恶心的”或“极其糟糕的”；'man' 借自英语，指“男人”或“家伙”。整句意为“那个男人真令人反感”。注意事项：带有极强的负面情绪和排斥感，是一种严厉的贬损表达，容易引发冲突，需谨慎使用。"
+    },
+    {
+        "Sentence": "¿En serio pasó eso? Qué video...",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'qué video' 字面意思是“什么视频”，但在哥伦比亚俚语中，它用来形容某个情况“太离谱了”、“像电影情节一样夸张”或“戏剧性十足”。整句意为“真的发生那种事了？太离谱了吧……”。注意事项：属于年轻人群体中的高频流行语，不带恶意，主要用于表达惊讶或难以置信。"
+    },
+    {
+        "Sentence": "Qué mamera de vieja",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'mamera' 意指“极度令人厌烦的事物”、“麻烦”或“让人懒散的原因”；'vieja' 在哥伦比亚俗语中常泛指“女人”。整句意为“那个女人真烦人”。注意事项：表达了强烈的不耐烦情绪。'vieja' 一词视语气而定，有时显得轻浮或不尊重，应避免在正式场合使用。"
+    },
+    {
+        "Sentence": "¿Pelearon por eso? Qué maricada",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'maricada' 词根源于对同性恋的贬称，但在哥伦比亚日常口语中，其语义已泛化，通常指代“蠢事”、“毫无意义的小事”或“废话”。整句意为“你们就为那点破事吵架？真是蠢透了”。注意事项：尽管在当地常作为口头禅，但由于其词源具有敏感性，在不熟悉的人群、正式场合或跨文化交流中极易被视为冒犯性语言，应极力避免。"
+    },
+    {
+        "Sentence": "Esa ñámpira me amenazó con un puñal",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'ñámpira' 是哥伦比亚用于指代“罪犯”、“流氓”、“小偷”或“底层混混”的俚语。整句意为“那个混混拿匕首威胁我”。注意事项：属于带有强烈阶级色彩和极度贬义的词汇，通常用于描述具有危险性或道德败坏的人。"
+    },
+    {
+        "Sentence": "Fui a mi casa y volví en bombas",
+        "predicted_country": "Colombia",
+        "explanation": "解释：'en bombas' 字面意思是“在炸弹里”，但在哥伦比亚俚语中意为“极快地”、“飞速地”或“马上”。整句意为“我回了趟家，然后飞快地赶回来了”。注意事项：这是一个非常地道且中性的描述性俚语，日常生活中可安全使用，无贬义。"
+    },
+    {
+        "Sentence": "Tengo caligüeva",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：在委内瑞拉俚语中，'caligüeva' 意为“极度的懒惰”、“倦怠”或“无聊透顶”。整句意为“我懒得要命”或“我太没劲了”。注意事项：该词汇包含微粗俗的词根，属于底层或高度非正式的俚语。绝对不应在职场、长辈面前或任何正式书面环境中出现。"
+    },
+    {
+        "Sentence": "Me da culillo ir al cementerio",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：'culillo' 在委内瑞拉意为“恐惧”、“害怕”或“恐慌”。整句意为“去墓地让我感到很害怕”。注意事项：这是一个非常常见的俚语，但带有些许粗俗色彩。适合朋友间的私下交流，不适用于严肃或专业的环境。"
+    },
+    {
+        "Sentence": "Oscar le está echando los perros a Yeni",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：'echar los perros' 字面意思是“放狗”，但在委内瑞拉及部分拉美国家，它是一个经典的俚语，意为“调情”、“追求”或“献殷勤”。整句意为“奥斯卡正在追求耶妮”。注意事项：该表达语气轻松、诙谐，通常没有明显的贬义，是描述浪漫追求行为的常用语。"
+    },
+    {
+        "Sentence": "Tu primo es medio conejo",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：'conejo' 字面为“兔子”，但在委内瑞拉用来形容一个人“天真”、“容易上当受骗”或“缺乏社会经验”。整句意为“你表哥有点容易被骗/有点天真”。注意事项：带有轻微的嘲讽和贬低意味，指责对方不够精明或防备心差。"
+    },
+    {
+        "Sentence": "Hola pana como estás",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：'pana' 是委内瑞拉最具代表性的俚语之一，意为“朋友”、“兄弟”或“伙伴”。整句意为“嗨，哥们，你怎么样？”。注意事项：非常友好、中性且高频使用的称呼，几乎适用于所有非正式的日常社交场合，能够迅速拉近人际距离。"
+    },
+    {
+        "Sentence": "No seas tan gafo",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：在委内瑞拉西班牙语中，'gafo' 意为‘愚蠢的’、‘迟钝的’、‘天真的’或‘傻子’。整句意思是‘别这么傻’或‘别这么笨’。注意事项：带有强烈的委内瑞拉地域口语特色。通常用于朋友或熟人之间，用来提醒对方不要太天真、轻信他人或者做傻事。在正式场合或对不熟的人使用可能会显得冒犯。"
+    },
+    {
+        "Sentence": "dame dos kilos de chaima",
+        "predicted_country": "Venezuela",
+        "explanation": "解释：在委内瑞拉的部分地区，'Chaima' 指的沙丁鱼，在日常购物语境可解释为“给我两公斤沙丁鱼”，这不是一个全国通用的标准词汇。注意事项：此表达具有高度的地域局限性和不确定性，在委内瑞拉大部分地区可能无法被正确理解，使用时需注意具体的地理和文化语境。"
+    },
+    {
+        "Sentence": "Martín es bien agarrado.",
+        "predicted_country": "Peru",
+        "explanation": "解释：在秘鲁俚语中，'agarrado' 通常有两个不同的含义：一是指人“非常吝啬”、“小气”（守财奴）；二是指人“体格健壮”、“肌肉发达”。整句可能意为“马丁非常小气”或“马丁非常壮实”。注意事项：该词具有多义性，极度依赖上下文语境来消除歧义。如果用于指代“小气”，带有明显的贬义；用于指代“健壮”则属于客观描述或褒义。"
+    },
+    {
+        "Sentence": "Ya pues, flaquita, no me arroches así.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'arrochar' 是秘鲁俚语，意为“拒绝”、“冷落”或“让人感到难堪/羞愧”。'flaquita' 是对年轻女性的亲昵称呼。整句意为“好啦，美女，别这么冷落/拒绝我”。注意事项：多见于年轻人群体，带有撒娇、埋怨或请求的语气，属于非正式的日常沟通方式。"
+    },
+    {
+        "Sentence": "Manuel esta muy asado por la apuesta que perdió.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'asado' 字面意思是“烤熟的”，但在秘鲁俚语中被广泛用于形容某人“非常生气”、“愤怒”或“恼火”。整句意为“曼努埃尔因为输了赌注而非常生气”。注意事项：这是一个描述情绪状态的常见且中性的非正式用语，在秘鲁各地普遍被接受和理解。"
+    },
+    {
+        "Sentence": "Ese se cree bacán.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'bacán' 本身在秘鲁及多国意为“酷”、“优秀”或“好”。但当与动词 'creerse'（自以为）连用时，'creerse bacán' 意为“自以为是”、“傲慢”或“耍大牌”。整句意为“那家伙自以为很了不起”。注意事项：在此句型中带有明显的负面批评和讽刺意味，用于表达对某人高傲态度的不满。"
+    },
+    {
+        "Sentence": "No me agrada el carácter de ese tipo, parece un cachaco.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'cachaco' 在秘鲁是对“警察”或“军人”的俗称。在此句中引申用于形容某人性格死板、专横或具有威权做派。整句意为“我不喜欢那个家伙的性格，像个做派死板的军警”。注意事项：作为职业称呼时略带轻蔑，用于形容普通人时带有对刻板、粗暴或独裁性格的负面评价。"
+    },
+    {
+        "Sentence": "He conseguido un cachuelito. Voy a ayudar en la obra.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'cachuelo' 在秘鲁指代“临时工作”、“打零工”或“赚外快的小差事”，'cachuelito' 是其指小词形式。整句意为“我找了个小零工，打算去工地上帮忙”。注意事项：该词准确反映了拉美地区庞大的非正式经济状况，属于非常接地气和常用的生活用语，无贬义。"
+    },
+    {
+        "Sentence": "Lleva más de cinco años en cana.",
+        "predicted_country": "Peru",
+        "explanation": "解释：'cana' 泛指“监狱”或“牢房”。整句意为“他在里面（监狱）待了五年多了”。注意事项：该词源于拉普拉塔河的 Lunfardo 俚语，但已在秘鲁等多个南美国家深深扎根。常用于犯罪、司法或社会新闻相关的非正式对话中，属于通俗口语。"
+    }
+]
